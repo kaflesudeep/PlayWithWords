@@ -23,6 +23,10 @@ public class Find_a_Box_BO {
 		List newWordList= jumpingOrderMaintain.JumpingOrderMaintainingMethod(character,Word_length_int, wordlist ); 
 		
 		System.out.println(newWordList);
+		
+		//sdadasd
+		
+		
 		return newWordList;
 		
 	}
