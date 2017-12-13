@@ -7,7 +7,7 @@ import com.PlayWithWords.CommonMethod.JumpingOrderMaintain;
 
 
 public class Find_a_Box_BO {
-// testing for checkin
+
 	
 	
 	public List find_a_Box_BO_Method(String character, int Word_length_int, String condition){
@@ -20,7 +20,7 @@ public class Find_a_Box_BO {
 		
 		JumpingOrderMaintain jumpingOrderMaintain = new JumpingOrderMaintain(); 
 		
-		//System.out.println(wordlist);
+		
 		
 		List newWordList= jumpingOrderMaintain.JumpingOrderMaintainingMethod(character,Word_length_int, wordlist ); 
 		
